@@ -1,4 +1,4 @@
-# TIktok-Clone - Flutter and Firebase
+# Tiktok-Clone - Flutter and Firebase
 
 Tech Stack
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
