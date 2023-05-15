@@ -1,6 +1,6 @@
 # Tiktok-Clone - Flutter and Firebase
 
-Tech Stack
+Tech Stack <br/>
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
 Client: Flutter, GetX
